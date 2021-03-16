@@ -1,5 +1,5 @@
 ### Hello, My name is Oleg, and i'm a Frontend Developer! 👋
-Here you can find what technologies I use, my projects and test assignments completed by me.
+*Here you can find what technologies I use, my projects and test assignments completed by me.*
 ### Connect with me:
 
 
@@ -24,6 +24,9 @@ Here you can find what technologies I use, my projects and test assignments comp
 <img align="left" alt="MONGODB"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/mongodb.png" />
 <img alt="NODE"   src="https://raw.githubusercontent.com/TheNear/TheNear/master/icons/node.png" />
 </div>
+
+### My algorithmic learning progress:
+*Repository where I solve and study algorithms.* [Github Repository](https://github.com/TheNear/AlgorithmicTasks)
 
 ### Projects and test assignments:
 
